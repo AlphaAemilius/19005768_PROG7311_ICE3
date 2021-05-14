@@ -1,0 +1,10 @@
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\bin\Debug\MementoTextEditor.exe.config
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\bin\Debug\MementoTextEditor.exe
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\bin\Debug\MementoTextEditor.pdb
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.csprojAssemblyReference.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.Form1.resources
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.Properties.Resources.resources
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.csproj.GenerateResource.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.exe
+C:\Users\powde\OneDrive\Workbench\Programming 3A\Projects\MementoV2\MementoTextEditor\MementoTextEditor\obj\Debug\MementoTextEditor.pdb
